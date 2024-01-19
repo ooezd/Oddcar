@@ -70,3 +70,8 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+/Oddcar/Library
+/Oddcar/Logs
+/Oddcar/obj/Debug
+/Oddcar/Oddcar1.0_BurstDebugInformation_DoNotShip/tempburstlibs/armeabi-v7a
+/Oddcar/Temp
